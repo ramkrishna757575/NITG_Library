@@ -1,0 +1,195 @@
+.main_container{
+	background: #d3d7d7;
+}
+
+a,a:hover{
+	font-size: 1.2em;
+	cursor: pointer;
+}
+
+.home_logo{
+	width: 30%;
+	height: 30%;
+	margin: auto;
+	margin-top: 5%;
+	margin-left: 35%;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.home_header{
+	text-align: center;
+	width: 50%;
+	margin-left: 25%;
+	color: #2986b9;
+}
+
+.home_intro{
+	text-align: center;
+}
+
+.modal{
+	margin-top: 4%;
+}
+
+.default-size{
+	font-size: 1.2em;
+	margin-bottom: 1%;
+}
+
+.form-control{
+	font-size: 1.2em;
+}
+
+.user_type_dropdown{
+	width: 50%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.nav li:hover{
+	background: #2986b9;
+}
+
+.search{
+	border-radius: 20px;
+}
+
+.alert.alert-info{
+	color: #31708f;
+	background-color: #bce8f1;
+}
+
+.alert.alert-warning{
+	color: #8a6d3b;
+	background-color: #ffdd87;
+}
+
+.alert.alert-success{
+	color: #3c8670;
+	background-color: #b9df90;
+}
+
+.alert.alert-danger{
+	color: #a94442;
+	background-color: #f2838f;
+}
+
+.inline{
+	display: inline;
+}
+
+.alert.plain-bg{
+	color: #434a54;
+	background-color: #ffffff;
+	border-color: #ffffff;
+	-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	 -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	 box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.contact{
+	width: 60%;
+	margin: auto;
+}
+
+.contact ul{
+	list-style: none;
+	margin-left: -5%;
+}
+
+.plain-bg img{
+	width: 20%;
+	height: 25%;
+	float: left;
+}
+
+.pos-absolute{
+	position: absolute;
+}
+
+.lib_contact h4{
+	color: #434a54;
+}
+
+.lib_contact{
+	margin-left: 30%;
+}
+
+.books-tiles{	
+	text-align: center;
+}
+
+.books-tiles:hover{
+	text-decoration: none;
+}
+
+.thumbnail:hover{
+	border: solid 2px #ffd926;
+}
+
+.books-card{
+	padding: 2px;
+}
+
+.less-margin{
+	margin-top: 1%;
+}
+
+.books-row{
+	margin-left: 20%;
+}
+
+.nav-menu{
+	display: none;
+	color: #fff;
+	margin-top: 12px;
+}
+
+.message{
+	margin-top: 3%;
+}
+
+.feedback{
+	margin: 2% auto;
+	width: 60%;
+}
+
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:focus{
+	background-color: #3aa2db;
+	border-color: #89d0dc;
+}
+
+.navbar-default .navbar-toggle:hover{
+	background-color: #2986b9
+}
+
+.sidebar{
+	margin: 0.5%;
+	position: fixed;
+	top: 58px;
+	left: 5px;
+	width: 25%;
+}
+
+.form-search{
+	margin: 1%;
+}
+
+.search_cat{
+	list-style-type: none;
+	font-size: 1.2em;
+}
+
+.modal-header h3{
+	margin-top: 2%;
+}
+
+.modal-header hr
+{
+	margin: 3.5% auto;
+}
