@@ -8,9 +8,9 @@ functionality to find specific books.
 
 This project requires the following to run:
 
-Apache Version : 2.4.9
-PHP Version : 5.5.12
-MySQL Version : 5.6.17
+Apache Version : 2.4.9<br/>
+PHP Version : 5.5.12<br/>
+MySQL Version : 5.6.17<br/>
 
 The following file needs change:
 
